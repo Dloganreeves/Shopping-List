@@ -1,0 +1,14 @@
+C:\Users\logan\source\repos\Shopping List\obj\Debug\net8.0\Shopping List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\source\repos\Shopping List\obj\Debug\net8.0\Shopping List.AssemblyInfoInputs.cache
+C:\Users\logan\source\repos\Shopping List\obj\Debug\net8.0\Shopping List.AssemblyInfo.cs
+C:\Users\logan\source\repos\Shopping List\obj\Debug\net8.0\Shopping List.csproj.CoreCompileInputs.cache
+C:\Users\logan\source\repos\Shopping List\bin\Debug\net8.0\Shopping List.exe
+C:\Users\logan\source\repos\Shopping List\bin\Debug\net8.0\Shopping List.deps.json
+C:\Users\logan\source\repos\Shopping List\bin\Debug\net8.0\Shopping List.runtimeconfig.json
+C:\Users\logan\source\repos\Shopping List\bin\Debug\net8.0\Shopping List.dll
+C:\Users\logan\source\repos\Shopping List\bin\Debug\net8.0\Shopping List.pdb
+C:\Users\logan\source\repos\Shopping List\obj\Debug\net8.0\Shopping List.dll
+C:\Users\logan\source\repos\Shopping List\obj\Debug\net8.0\refint\Shopping List.dll
+C:\Users\logan\source\repos\Shopping List\obj\Debug\net8.0\Shopping List.pdb
+C:\Users\logan\source\repos\Shopping List\obj\Debug\net8.0\Shopping List.genruntimeconfig.cache
+C:\Users\logan\source\repos\Shopping List\obj\Debug\net8.0\ref\Shopping List.dll
